@@ -1,0 +1,2 @@
+Reducing Loss: Optimizing Learning Rate
+https://developers.google.com/machine-learning/crash-course/fitter/graph
